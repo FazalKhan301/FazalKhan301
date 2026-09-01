@@ -1,8 +1,8 @@
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f6fed,100:6a3df5&height=210&section=header&text=Fazal%20M.%20Khan%20Pathan&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-stack%20developer%20%C2%B7%20building%20healthcare%2C%20pharmacy%20%26%20booking%20SaaS&descSize=17&descAlignY=58" />
+<h1 align="center">Hi 👋, I'm Fazal M. Khan Pathan</h1>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2F6FED&center=true&vCenter=true&width=680&lines=Full-stack+developer+from+the+UK;I+ship+SaaS+for+healthcare%2C+pharmacy+%26+bookings;Next.js+%C2%B7+NestJS+%C2%B7+React+Native+%C2%B7+PHP+%C2%B7+Medusa;From+database+trigger+to+mobile+app+%E2%80%94+end+to+end" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2F6FED&center=true&vCenter=true&width=720&lines=Full-stack+developer+from+the+UK;I+ship+SaaS+for+HR%2C+bookings+%26+e-commerce;Next.js+%C2%B7+NestJS+%C2%B7+React+Native+%C2%B7+PHP+%C2%B7+Medusa;From+a+database+trigger+to+a+mobile+app+%E2%80%94+end+to+end" alt="typing" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=fazalkhan301&label=Profile%20views&color=2f6fed&style=flat-square" alt="views" />
@@ -18,7 +18,7 @@
 ### 👨‍💻 About me
 
 - 🏗️  I design and ship **full-stack products end to end** — web, API, mobile, and the infrastructure they run on.
-- 🩺  Most of my work is **healthcare, pharmacy, HR and booking SaaS** — real businesses with real compliance.
+- 🧩  Most of my work is **HR, booking, e-commerce and business SaaS** for real companies.
 - 🧰  Across the stack: **Next.js / React** on the front, **NestJS / Node / PHP / Frappe** on the back, **PostgreSQL / Supabase** for data, **Docker** to run it.
 - 📱  Recently: a **React Native / Expo** mobile client and a **Medusa** commerce store.
 - 🧠  I like problems where correctness matters — audit trails, RBAC, append-only ledgers, multi-tenancy.
@@ -28,9 +28,10 @@
 | Project | What it is |
 |---|---|
 | **Quadline** | Multi-tenant HR, booking & payroll SaaS — NestJS API + Next.js web + a React Native app |
-| **Clinickly** | ADHD & autism assessment platform with an AI consultation co-pilot |
-| **MEDLRN** | Pharmacy CPD education & compliance platform |
+| **Reebooking** | Luxury spa & salon booking system — Next.js, TypeScript, Prisma, PostgreSQL |
+| **VF Beauty Lounge** | Beauty-salon website with Airtable-backed booking & staff attendance |
 | **Osevaro** | Medusa e-commerce store with UK dropship supplier integrations |
+| **Firefox LAN Video Sync** | Browser extension + relay for synchronised video playback across a LAN |
 
 ### 🛠️ Languages & Tools
 
@@ -43,16 +44,16 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fazalkhan301&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2f6fed&icon_color=6a3df5&bg_color=0d1117" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazalkhan301&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=2f6fed&bg_color=0d1117" alt="top langs" />
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalkhan301&theme=tokyonight" alt="profile summary" />
+</div>
+
+<div align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalkhan301&theme=tokyonight" alt="stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazalkhan301&theme=tokyonight" alt="languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fazalkhan301&theme=tokyonight&hide_border=true&border_radius=8&ring=2f6fed&fire=6a3df5&currStreakLabel=2f6fed&background=0d1117" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fazalkhan301&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
 </div>
 
 ### 🕹️ Pac-Man eating my contributions
@@ -65,8 +66,4 @@
 
 ---
 
-<div align="center">
-  <i>⚡ Building useful software for real businesses — one commit at a time.</i>
-  <br/><br/>
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a3df5,100:2f6fed&height=100&section=footer" />
-</div>
+<div align="center"><i>⚡ Building useful software for real businesses — one commit at a time.</i></div>
