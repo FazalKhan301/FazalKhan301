@@ -48,8 +48,7 @@
 </div>
 
 <div align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalkhan301&theme=tokyonight" alt="stats" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazalkhan301&theme=tokyonight" alt="languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalkhan301&theme=tokyonight" alt="stats" />
 </div>
 
 <div align="center">
